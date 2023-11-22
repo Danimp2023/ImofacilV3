@@ -1,0 +1,28 @@
+.img-seg{
+    border-radius: 50%;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+
+.diversos{
+    margin-top: 1rem;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    padding: 2rem;
+}
+
+.gradient-background{
+    background:goldenrod;
+}
+
+.saude{
+    margin: 3rem;
+}
+
+.bloco_texto{
+    margin: 3rem;
+}
+
+#navbarNav{
+    font-weight: bold;
+}
